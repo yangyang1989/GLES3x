@@ -1,0 +1,4 @@
+#Sun Dec 03 21:54:07 CST 2017
+base.0=/home/aaron/Work/GLES3x/Sample3_1/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

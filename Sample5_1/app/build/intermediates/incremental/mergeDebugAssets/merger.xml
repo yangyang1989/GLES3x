@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/aaron/Work/GLES3x/Sample5_1/app/src/main/assets"><file name="frag.sh" path="/home/aaron/Work/GLES3x/Sample5_1/app/src/main/assets/frag.sh"/><file name="vertex.sh" path="/home/aaron/Work/GLES3x/Sample5_1/app/src/main/assets/vertex.sh"/></source><source path="/home/aaron/Work/GLES3x/Sample5_1/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/aaron/Work/GLES3x/Sample5_1/app/src/debug/assets"/></dataSet></merger>

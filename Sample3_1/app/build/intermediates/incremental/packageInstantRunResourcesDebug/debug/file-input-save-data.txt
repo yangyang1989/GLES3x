@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Dec 03 21:54:04 CST 2017
+1.base=/home/aaron/Work/GLES3x/Sample3_1/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=frag.sh
+0.set=ASSET
+0.base=/home/aaron/Work/GLES3x/Sample3_1/app/build/intermediates/assets/debug
+1.path=vertex.sh
